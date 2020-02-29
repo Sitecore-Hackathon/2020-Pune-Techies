@@ -1,0 +1,31 @@
+﻿---
+ID: "f819c8d2-f6d1-45a3-a0a3-1258599bd609"
+Parent: "a7ca783d-7b97-4dfb-b4a3-5ee2cdf51287"
+Template: "af74a00b-8ca7-4c9a-a5c1-156a68590ee2"
+Path: /sitecore/content/PuneTechies/Home/Hackathons/Hackathon 2019/_Local/Prizes/Prizes
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200229T131753Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "ac3fd4db-8266-476d-9635-67814d91e901"
+      Hint: Summary
+      Value: |
+        <div class="stack-title">Prizes<span class="spot">&nbsp;</span></div>
+        <p>The winning teams will each receive a $100 Amazon gift card per team member, making the total $300 per team for a three person team. The Amazon gift cards will be emailed to the email addresses on file no later than 10 days after the winning team is announced. If Amazon gift cards are not available in the region, alternate arrangements will be made.</p>
+        <p>We will showcase your company logo and/or your team photo on this website.</p>
+        <p><strong>Bonus: <a href="http://www.teamdevelopmentforsitecore.com/" target="_blank">Hedgehog</a> is sponsoring prizes for this year’s Hackathon. Category winners will each receive 1 FREE license for TDS and 1 server license with 2 user count for Avtor per winning member of the winning team!</strong></p>
+        <p><strong>Bonus: <a href="https://www.brimit.com/" target="_blank">Brimit</a> is also sponsoring prizes this year to entice more teams to join the Sitecore Hackathon. Each winning member of the team will receive a FREE user registration for the <a href="https://www.sugcon.eu/" target="_blank">SUGCON EU 2020</a> worth €350 per each member. </strong></p>
+        <ol>
+        <li>No purchase necessary.</li>
+        <li>Must 21 years or older at time of entry.</li>
+        <li>Additional terms, conditions and restrictions apply.</li>
+        </ol>

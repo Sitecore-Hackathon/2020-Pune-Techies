@@ -1,0 +1,30 @@
+﻿---
+ID: "e15ca6ad-ba90-46ec-9ad0-6e5523053a0b"
+Parent: "5a866759-6b04-48bf-80c2-733e829dc56b"
+Template: "af74a00b-8ca7-4c9a-a5c1-156a68590ee2"
+Path: /sitecore/content/PuneTechies/Home/Hackathons/Hackathon 2020/_Local/Prizes/Prizes
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200229T131753Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "ac3fd4db-8266-476d-9635-67814d91e901"
+      Hint: Summary
+      Value: |
+        <div class="stack-title">
+        <p style="color: #555555; background-color: #ffffff; margin-bottom: 20px; padding: 0px; border: 0px;">The winning teams will each receive a $200 Amazon gift card per team member, making the total $600 per team for a three person team. The Amazon gift cards will be emailed to the email addresses on file no later than 10 days after the winning team is announced. If Amazon gift cards are not available in the region, alternate arrangements will be made.</p>
+        <p style="color: #555555; background-color: #ffffff; margin-bottom: 20px; padding: 0px; border: 0px;">We will showcase your company logo and/or your team photo on this website.</p>
+        <ol style="color: #555555; background-color: #ffffff; margin-right: 0px; margin-bottom: 20px; margin-left: 2px; padding: 0px 0px 0px 20px; border: 0px; list-style-image: initial;">
+            <li style="margin: 0px 0px 1px; padding: 0px; border: 0px;">No purchase necessary.</li>
+            <li style="margin: 0px 0px 1px; padding: 0px; border: 0px;">Must 21 years or older at time of entry.</li>
+            <li style="margin: 0px 0px 1px; padding: 0px; border: 0px;">Additional terms, conditions and restrictions apply.</li>
+        </ol>
+        </div>

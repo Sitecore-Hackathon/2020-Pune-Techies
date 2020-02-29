@@ -1,0 +1,16 @@
+﻿@using Sitecore.Feature.PageContent
+@using Sitecore.Foundation.Alerts
+@using Sitecore.Foundation.Alerts.Extensions
+@using Sitecore.Foundation.SitecoreExtensions.Extensions
+@model Sitecore.Mvc.Presentation.RenderingModel
+
+
+<header>
+  @if (Model.Item.FieldHasValue(Templates.HasPageContent.Fields.RichText) || Sitecore.Context.PageMode.IsExperienceEditor)
+  {
+    <div class="lead">
+      @Html.Sitecore().Field(Templates.HasPageContent.Fields.RichText, Model.Item)
+    </div>
+  }
+</header>
+

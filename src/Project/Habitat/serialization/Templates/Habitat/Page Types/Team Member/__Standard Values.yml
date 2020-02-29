@@ -1,0 +1,21 @@
+﻿---
+ID: "e9c8d977-92e2-4552-a3a6-a5af30c374c0"
+Parent: "e7d4bc5f-7ff4-4f9b-9217-8365c0c97efe"
+Template: "e7d4bc5f-7ff4-4f9b-9217-8365c0c97efe"
+Path: /sitecore/templates/Project/Habitat/Page Types/Team Member/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0f8a329c-7ca3-4f68-8f7b-81a2d2616f25"
+      Hint: Name
+      Value: $name
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200229T074047Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

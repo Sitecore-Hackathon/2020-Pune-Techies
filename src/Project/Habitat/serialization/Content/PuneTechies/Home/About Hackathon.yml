@@ -1,0 +1,181 @@
+﻿---
+ID: "762684e7-480b-41d6-82de-8549babe95e3"
+Parent: "dac24edd-44fb-42ef-9ecd-1e8daf706386"
+Template: "8ee208f9-a6a6-41e2-88a0-c188737a178c"
+Path: /sitecore/content/PuneTechies/Home/About Hackathon
+DB: master
+SharedFields:
+- ID: "b0a67b2a-8b07-4e0b-8809-69f751709806"
+  Hint: __Tracking
+  Type: Tracking
+  Value: |
+    <tracking>
+      <profile
+        id="{24DFF2CF-B30A-4B75-8967-2FE3DED82271}"
+        name="Focus">
+        <key
+          name="Background"
+          value="0" />
+        <key
+          name="Practical"
+          value="0" />
+        <key
+          name="Process"
+          value="0" />
+        <key
+          name="Scope"
+          value="0" />
+      </profile>
+    </tracking>
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: da
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b483e91-d8c4-4d19-ba03-462074b55936"
+      Hint: NavigationTitle
+      Value: Om Habitat
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160112T105545Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "9492e0bb-9df9-46e7-8188-ec795c4ade44"
+      Hint: Image
+      Value: |
+        <image mediaid="{88032F9C-B464-44CB-B76D-513D60B9C127}" />
+    - ID: "ac3fd4db-8266-476d-9635-67814d91e901"
+      Hint: Summary
+      Value: "Sitecore Habitat er et s&aelig;t af principper og konventioner fokus p&aring; at &oslash;ge produktiviteten og kvaliteten i Sitecore-projekter."
+    - ID: "c30a013f-3cc8-4961-9837-1c483277084a"
+      Hint: Title
+      Value: Om Habitat
+    - ID: "ca0479ce-0bfe-4522-83de-ba688b380a78"
+      Hint: BrowserTitle
+      Value: Om Habitat
+    - ID: "d74f396d-5c5e-4916-bd0a-bfd58b6b1967"
+      Hint: Body
+      Value: "Sitecore Habitat er et s&aelig;t af principper og konventioner fokus p&aring; at &oslash;ge produktiviteten og kvaliteten i Sitecore-projekter."
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b483e91-d8c4-4d19-ba03-462074b55936"
+      Hint: NavigationTitle
+      Value: About Hackathon
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20150907T045121Z
+    - ID: "ac3fd4db-8266-476d-9635-67814d91e901"
+      Hint: Summary
+      Value: <p>The 2020 Sitecore Hackathon is a free online community driven event organized by Akshay Sura and supported by Sitecore. (Shout out to Pieter,  Mark and Tamas).</p>
+    - ID: "c30a013f-3cc8-4961-9837-1c483277084a"
+      Hint: Title
+      Value: About Hackathon
+    - ID: "ca0479ce-0bfe-4522-83de-ba688b380a78"
+      Hint: BrowserTitle
+      Value: About Hackathon
+    - ID: "d74f396d-5c5e-4916-bd0a-bfd58b6b1967"
+      Hint: Body
+      Value: |
+        <p style="color: #555555; background-color: #ffffff; margin-bottom: 20px; padding: 0px; border: 0px;"><strong style="margin: 0px; padding: 0px; border: 0px;">First Ever Sitecore Hackathon Contest – Jan 2014</strong></p>
+        <ul style="color: #555555; background-color: #ffffff; margin-right: 0px; margin-bottom: 20px; margin-left: 2px; padding: 0px 0px 0px 20px; border: 0px; list-style-type: square; list-style-image: initial;">
+            <li style="margin: 0px 0px 1px; padding: 0px; border: 0px;">11 Teams participated</li>
+            <li style="margin: 0px 0px 1px; padding: 0px; border: 0px;">Winner – Team Orange</li>
+        </ul>
+        <p style="color: #555555; background-color: #ffffff; margin-bottom: 20px; padding: 0px; border: 0px;"><strong style="margin: 0px; padding: 0px; border: 0px;">Sitecore Hackathon 2015 – Jan 2015</strong></p>
+        <ul style="color: #555555; background-color: #ffffff; margin-right: 0px; margin-bottom: 20px; margin-left: 2px; padding: 0px 0px 0px 20px; border: 0px; list-style-type: square; list-style-image: initial;">
+            <li style="margin: 0px 0px 1px; padding: 0px; border: 0px;">36 Teams participated</li>
+            <li style="margin: 0px 0px 1px; padding: 0px; border: 0px;">Winner – Team Uniques in Best Development Experience Module</li>
+            <li style="margin: 0px 0px 1px; padding: 0px; border: 0px;">Winner – Team Bazinga! in Best Sitecore Integration Module</li>
+            <li style="margin: 0px 0px 1px; padding: 0px; border: 0px;">Winner – Team Admin/b in Best Business User Experience Module</li>
+            <li style="margin: 0px 0px 1px; padding: 0px; border: 0px;"><a title="Sitecore Hackathon 2015 Winning Teams" href="http://sitecorehackathon.org/sitecore-hackathon-2015-winning-teams/" style="color: #bf3417; margin: 0px; padding: 0px; border: 0px;">Sitecore Hackathon 2015 Winning Teams</a></li>
+        </ul>
+        <p style="color: #555555; background-color: #ffffff; margin-bottom: 20px; padding: 0px; border: 0px;"><strong style="margin: 0px; padding: 0px; border: 0px;">Sitecore Hackathon 2016 – Jan 2016</strong></p>
+        <ul style="color: #555555; background-color: #ffffff; margin-right: 0px; margin-bottom: 20px; margin-left: 2px; padding: 0px 0px 0px 20px; border: 0px; list-style-type: square; list-style-image: initial;">
+            <li style="margin: 0px 0px 1px; padding: 0px; border: 0px;">48 Teams participated</li>
+            <li style="margin: 0px 0px 1px; padding: 0px; border: 0px;">Entries from over 15 countries</li>
+            <li style="margin: 0px 0px 1px; padding: 0px; border: 0px;">Winner – Team Uniques in Best Third Party Integration Module</li>
+            <li style="margin: 0px 0px 1px; padding: 0px; border: 0px;">Winner – Team Red Staffy in Best Habitat Feature Module</li>
+            <li style="margin: 0px 0px 1px; padding: 0px; border: 0px;"><a title="Sitecore Hackathon 2016 Winning Teams" href="http://sitecorehackathon.org/sitecore-hackathon-2016-winning-teams/" style="color: #bf3417; margin: 0px; padding: 0px; border: 0px;">Sitecore Hackathon 2016 Winning Teams</a></li>
+        </ul>
+        <p style="color: #555555; background-color: #ffffff; margin-bottom: 20px; padding: 0px; border: 0px;"><strong style="margin: 0px; padding: 0px; border: 0px;">Sitecore Hackathon 2017 – Mar 2017</strong></p>
+        <ul style="color: #555555; background-color: #ffffff; margin-right: 0px; margin-bottom: 20px; margin-left: 2px; padding: 0px 0px 0px 20px; border: 0px; list-style-type: square; list-style-image: initial;">
+            <li style="margin: 0px 0px 1px; padding: 0px; border: 0px;">92 Teams participated</li>
+            <li style="margin: 0px 0px 1px; padding: 0px; border: 0px;">Entries from over 26 countries</li>
+            <li style="margin: 0px 0px 1px; padding: 0px; border: 0px;">
+            <p style="padding: 0px; border: 0px;">Winner – Team SapeAztec in Azure PaaS Module</p>
+            </li>
+            <li style="margin: 0px 0px 1px; padding: 0px; border: 0px;">Winner – Team No Weekend 4 us in Sitecore Experience Accelerator</li>
+            <li style="margin: 0px 0px 1px; padding: 0px; border: 0px;">Winner – Team O161 in Habitat Module</li>
+            <li style="margin: 0px 0px 1px; padding: 0px; border: 0px;">Winner – Team Go Horse in Data Exchange Framework</li>
+            <li style="margin: 0px 0px 1px; padding: 0px; border: 0px;"><a title="Sitecore Hackathon 2017 Winning Teams" href="http://www.sitecorehackathon.org/sitecore-hackathon-2017-winning-teams/" style="color: #bf3417; margin: 0px; padding: 0px; border: 0px;">Sitecore Hackathon 2017 Winning Teams</a></li>
+        </ul>
+        <p style="color: #555555; background-color: #ffffff; margin-bottom: 20px; padding: 0px; border: 0px;"><strong style="margin: 0px; padding: 0px; border: 0px;">Sitecore Hackathon 2018 – Mar 2018</strong></p>
+        <ul style="color: #555555; background-color: #ffffff; margin-right: 0px; margin-bottom: 20px; margin-left: 2px; padding: 0px 0px 0px 20px; border: 0px; list-style-type: square; list-style-image: initial;">
+            <li style="margin: 0px 0px 1px; padding: 0px; border: 0px;">74 Teams participated</li>
+            <li style="margin: 0px 0px 1px; padding: 0px; border: 0px;">Entries from over 25 countries</li>
+            <li style="margin: 0px 0px 1px; padding: 0px; border: 0px;">Winner – Team Las Vegans in xConnect Module</li>
+            <li style="margin: 0px 0px 1px; padding: 0px; border: 0px;">Winner – Team Santa’s Little Helper in Sitecore Experience Accelerator</li>
+            <li style="margin: 0px 0px 1px; padding: 0px; border: 0px;">Winner – Team Mashed Potatoes in Commerce Module</li>
+            <li style="margin: 0px 0px 1px; padding: 0px; border: 0px;">Winner – Team Powerful Ways in JavaScript Services Module</li>
+            <li style="margin: 0px 0px 1px; padding: 0px; border: 0px;"><a title="Sitecore Hackathon 2018 Winning Teams" href="http://www.sitecorehackathon.org/sitecore-hackathon-2018-winning-teams/" style="color: #bf3417; margin: 0px; padding: 0px; border: 0px;">Sitecore Hackathon 2018 Winning Teams</a></li>
+        </ul>
+        <p style="color: #555555; background-color: #ffffff; margin-bottom: 20px; padding: 0px; border: 0px;"><strong style="margin: 0px; padding: 0px; border: 0px;">Sitecore Hackathon 2019 – Mar 2019</strong></p>
+        <ul style="color: #555555; background-color: #ffffff; margin-right: 0px; margin-bottom: 20px; margin-left: 2px; padding: 0px 0px 0px 20px; border: 0px; list-style-type: square; list-style-image: initial;">
+            <li style="margin: 0px 0px 1px; padding: 0px; border: 0px;">97 Teams participated</li>
+            <li style="margin: 0px 0px 1px; padding: 0px; border: 0px;">Entries from over 25 countries</li>
+            <li style="margin: 0px 0px 1px; padding: 0px; border: 0px;"><a rel="noopener noreferrer" href="https://photos.app.goo.gl/rZMfkWCQpKkmVJcs9" target="_blank" style="color: #bf3417; margin: 0px; padding: 0px; border: 0px;">Pictures from the 2019 Hackathon</a></li>
+            <li style="margin: 0px 0px 1px; padding: 0px; border: 0px;"><a title="Sitecore Hackathon 2019 Winning Teams" href="http://www.sitecorehackathon.org/sitecore-hackathon-2019-winning-teams/" style="color: #bf3417; margin: 0px; padding: 0px; border: 0px;">Sitecore Hackathon 2019 Winning Teams</a></li>
+        </ul>
+        <p style="color: #555555; background-color: #ffffff; margin-bottom: 20px; padding: 0px; border: 0px;">Participant Benefits<span class="spot" style="background: #eeeeee; height: 5px; width: 5px; margin: 0px; padding: 0px; border: 0px;"></span></p>
+        <ul style="color: #555555; background-color: #ffffff; margin-right: 0px; margin-bottom: 20px; margin-left: 2px; padding: 0px 0px 0px 20px; border: 0px; list-style-type: square; list-style-image: initial;">
+            <li style="margin: 0px 0px 1px; padding: 0px; border: 0px;">Name recognition</li>
+            <li style="margin: 0px 0px 1px; padding: 0px; border: 0px;">Meet new Sitecore developers</li>
+            <li style="margin: 0px 0px 1px; padding: 0px; border: 0px;">Sense of community and experience</li>
+            <li style="margin: 0px 0px 1px; padding: 0px; border: 0px;">Get a module ready for Sitecore Market</li>
+            <li style="margin: 0px 0px 1px; padding: 0px; border: 0px;">and lastly there are Prizes</li>
+        </ul>
+- Language: "ja-JP"
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Habitat について
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b483e91-d8c4-4d19-ba03-462074b55936"
+      Hint: NavigationTitle
+      Value: Habitat について
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170323T054525Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "9492e0bb-9df9-46e7-8188-ec795c4ade44"
+      Hint: Image
+      Value: |
+        <image mediaid="{88032F9C-B464-44CB-B76D-513D60B9C127}" />
+    - ID: "ac3fd4db-8266-476d-9635-67814d91e901"
+      Hint: Summary
+      Value: |
+        <p>Habitat サイトは Sitecore &reg;Experience Platform&trade; のためのデモサイトです。.
+        </p>
+        <p>これらのサイトは、数多くのテクニカルおよびビジネスシナリオを通して、プラットフォームの能力と潜在的可能性のすべてを示しています。</p>
+    - ID: "c30a013f-3cc8-4961-9837-1c483277084a"
+      Hint: Title
+      Value: Habitat について
+    - ID: "ca0479ce-0bfe-4522-83de-ba688b380a78"
+      Hint: BrowserTitle
+      Value: Habitat について
+    - ID: "d74f396d-5c5e-4916-bd0a-bfd58b6b1967"
+      Hint: Body
+      Value: |
+        Sitecore Habitat のデモは、Sitecoreプロジェクトにおける生産性と品質の向上に焦点を当てた一連の原則とコンベンションである<a target="_blank" href="http://helix.sitecore.net">ヘリックスの原則</a>に基づいています。

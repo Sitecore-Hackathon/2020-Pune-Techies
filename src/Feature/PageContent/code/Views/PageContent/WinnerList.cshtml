@@ -1,0 +1,21 @@
+﻿@using Sitecore.Feature.PageContent
+@using Sitecore.Foundation.SitecoreExtensions.Extensions
+@using System.Linq
+@model Sitecore.Mvc.Presentation.RenderingModel
+@{
+    const int DefaultColumns = 4;
+
+    var children = Model.Item.GetMultiListValueItems(Templates.HasWinner.Fields.WinnerList);
+    var numColumns = children.Count()>= DefaultColumns ? DefaultColumns : (children.Count() <= 2 ? 2 : children.Count());
+}
+
+<div class="block-grid-md-@numColumns block-grid-sm-@(numColumns-1) block-grid-xs-1">
+    @foreach (var item in children)
+    {
+        <div class="block-grid-item">
+            <div>
+                @Html.Sitecore().Rendering(Renderings.PageTeaser.ToString(), new { Datasource = item.ID })
+            </div>
+        </div>
+    }
+</div>

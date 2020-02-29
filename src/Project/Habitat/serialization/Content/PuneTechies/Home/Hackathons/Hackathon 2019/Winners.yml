@@ -1,0 +1,37 @@
+﻿---
+ID: "b0a44529-8328-4501-a020-0ce4b8f337e7"
+Parent: "3a972137-49bc-4dc4-a26f-ca789418247d"
+Template: "cd4c9c85-c87c-46c3-adb6-88a074018e05"
+Path: /sitecore/content/PuneTechies/Home/Hackathons/Hackathon 2019/Winners
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "168dd13f-978d-43de-a2c6-30fd9944c64f"
+      Hint: Winners
+      Type: Multilist
+      Value: |
+        {FC124F7C-4199-487A-B1CE-0CAD9465089D}
+        {E343D666-F38D-481A-AB50-7ABF4787BFBD}
+    - ID: "1b483e91-d8c4-4d19-ba03-462074b55936"
+      Hint: NavigationTitle
+      Value: Winners
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200229T085854Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "c30a013f-3cc8-4961-9837-1c483277084a"
+      Hint: Title
+      Value: Winners
+    - ID: "ca0479ce-0bfe-4522-83de-ba688b380a78"
+      Hint: BrowserTitle
+      Value: Winners

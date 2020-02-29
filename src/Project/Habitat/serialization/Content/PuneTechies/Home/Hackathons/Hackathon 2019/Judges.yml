@@ -1,0 +1,41 @@
+﻿---
+ID: "294eed52-db64-40d4-a13e-e9043b9e0426"
+Parent: "3a972137-49bc-4dc4-a26f-ca789418247d"
+Template: "3fc3152e-546f-4c42-bcb5-b05498f38af8"
+Path: /sitecore/content/PuneTechies/Home/Hackathons/Hackathon 2019/Judges
+DB: master
+SharedFields:
+- ID: "5585a30d-b115-4753-93ce-422c3455deb2"
+  Hint: ShowInNavigation
+  Type: Checkbox
+  Value: 0
+- ID: "68016087-aa00-45d6-922a-678475c50d4a"
+  Hint: ShowChildren
+  Type: Checkbox
+  Value: 0
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 250
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b483e91-d8c4-4d19-ba03-462074b55936"
+      Hint: NavigationTitle
+      Value: Judges
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200229T123113Z
+    - ID: "7782a31a-5a6c-4c58-bb99-dfdaf99ded36"
+      Hint: Judges
+      Type: Multilist
+      Value: |
+        {511077BB-5845-45EE-A32D-A435749719AB}
+        {4597A767-D36F-44FD-9387-734E3CA31FB9}
+    - ID: "c30a013f-3cc8-4961-9837-1c483277084a"
+      Hint: Title
+      Value: Judges
+    - ID: "ca0479ce-0bfe-4522-83de-ba688b380a78"
+      Hint: BrowserTitle
+      Value: Judges

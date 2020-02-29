@@ -1,0 +1,21 @@
+﻿---
+ID: "a11d9c52-e8fb-4097-9877-513458ad2ee9"
+Parent: "a7ca783d-7b97-4dfb-b4a3-5ee2cdf51287"
+Template: "061574e1-59dd-4b62-9680-1c84efbe6773"
+Path: /sitecore/content/PuneTechies/Home/Hackathons/Hackathon 2019/_Local/Prizes/Prizes
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200229T131550Z
+    - ID: "4a59d072-5b41-4a79-a157-2b2ccac10f2b"
+      Hint: TeaserTitle
+      Value: Prizes
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

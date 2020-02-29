@@ -1,0 +1,14 @@
+﻿---
+ID: "540b5b1c-3e0b-453e-a1b5-c2359fc5efc3"
+Parent: "ee5e83e5-fb95-4af8-bf3b-944798cc40ed"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Feature/Person/_Has Judges/Judge list
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200229T085154Z

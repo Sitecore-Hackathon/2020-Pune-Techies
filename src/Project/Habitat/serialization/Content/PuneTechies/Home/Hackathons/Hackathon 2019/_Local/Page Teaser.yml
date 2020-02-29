@@ -1,0 +1,49 @@
+﻿---
+ID: "d47fe11f-6437-4b4b-b79d-994cba44331f"
+Parent: "6fe454e9-e3be-46a6-ad2b-a055a23bb3ee"
+Template: "af74a00b-8ca7-4c9a-a5c1-156a68590ee2"
+Path: /sitecore/content/PuneTechies/Home/Hackathons/Hackathon 2019/_Local/Page Teaser
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200229T120916Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "ac3fd4db-8266-476d-9635-67814d91e901"
+      Hint: Summary
+      Value: |
+        All teams are required to submit the following as part of their entry submission on or before the end of the Hackathon on Saturday March 2nd 2019 at 8PM EST. The modules should be based on Sitecore 9.1 (Initial Release) unless your entry is commerce related, in which case you could use Sitecore Experience Platform 9.0 Update-2 with Sitecore Experience Commerce 9.0 Update-3.
+        <ul>
+            <li>Sitecore 9.1 Module (Module install package) unless your entry is commerce related, in which case you could use Sitecore Experience Platform 9.0 Update-2 with Sitecore Experience Commerce 9.0 Update-3.</li>
+            <li>Module Code in the Git source repository (Provided)
+            <ul>
+                <li>Cleanliness of code</li>
+                <li>Commenting where necessary</li>
+                <li>Code Structure</li>
+                <li>Standard coding standards &amp; naming conventions</li>
+            </ul>
+            </li>
+            <li><strong>Precise and Clear Installation Instructions document (1 &ndash; 2 pages)</strong></li>
+            <li><strong>Module usage documentation on Readme.md file on the Git Repository (2 &ndash; 5 pages)</strong>
+            <ul>
+                <li>Module Purpose</li>
+                <li>Module Sitecore Hackathon Category</li>
+                <li>How does the end user use the Module?</li>
+                <li>Screenshots, etc.</li>
+            </ul>
+            </li>
+            <li><strong>Create a 2 &ndash; 10 minutes video explaining the module&rsquo;s functionality (A link to youtube video)</strong>
+            <ul>
+                <li>What problem was solved</li>
+                <li>How did you solve it</li>
+                <li>What is the end result</li>
+            </ul>
+            </li>
+        </ul>

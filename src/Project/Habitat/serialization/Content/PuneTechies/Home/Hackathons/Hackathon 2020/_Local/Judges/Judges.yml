@@ -1,0 +1,21 @@
+﻿---
+ID: "78ec8b25-ed2b-46de-b1a9-3aef76c84c36"
+Parent: "b2ad3f2d-6810-48e3-b935-5ae933ee474b"
+Template: "061574e1-59dd-4b62-9680-1c84efbe6773"
+Path: /sitecore/content/PuneTechies/Home/Hackathons/Hackathon 2020/_Local/Judges/Judges
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200229T135705Z
+    - ID: "4a59d072-5b41-4a79-a157-2b2ccac10f2b"
+      Hint: TeaserTitle
+      Value: Judges
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

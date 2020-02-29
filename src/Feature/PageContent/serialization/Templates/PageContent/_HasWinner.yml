@@ -1,0 +1,21 @@
+﻿---
+ID: "41c621a8-752f-44f5-b395-8d01092dae51"
+Parent: "45744e23-a486-4bca-b333-e7b24b210cc7"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/PageContent/_HasWinner
+DB: master
+SharedFields:
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Type: tree list
+  Value: |
+    {1930BBEB-7805-471A-A3BE-4858AC7CF696}
+    {81B82998-B13A-4BA0-A709-34A9C5BAFC5C}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200229T085136Z

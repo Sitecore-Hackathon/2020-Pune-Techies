@@ -1,0 +1,37 @@
+﻿---
+ID: "cf56f45d-3e2a-4874-8d0a-3079a402eda1"
+Parent: "18e9aff1-8ab0-4044-b260-85731acbed10"
+Template: "c7d9d293-4ef8-4380-8e10-c4632e729f39"
+Path: /sitecore/content/PuneTechies/Home/Hackathons/Hackathon 2020/_Local/Topics
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "13d97a52-7c4e-407c-960d-fadde8a3c1b1"
+      Hint: TeaserSummary
+      Value: |
+        Ideas for the hackathon:
+        
+        - Best enhancement to the Sitecore Admin (XP) UI for Content Editors &amp; Marketers
+        
+        - Best enhancement to Sitecore Commerce Business Tools UI
+        
+        - Best extension of the editing experience for SXA in Experience Editor
+        
+        - Best use of SPE to help Content authors and Marketers
+        
+        - Best enhancement to JSS to change a JSS component rendering behavior based on user’s session data
+        
+        - Best use of xConnect and/or Universal Tracker
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200229T113651Z
+    - ID: "4a59d072-5b41-4a79-a157-2b2ccac10f2b"
+      Hint: TeaserTitle
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

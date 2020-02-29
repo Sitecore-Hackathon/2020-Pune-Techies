@@ -1,0 +1,31 @@
+﻿---
+ID: "a475a29f-d91a-4337-bd69-626fb5291ec1"
+Parent: "577e8c49-b9da-432e-952f-c7e686e8a9bb"
+Template: "af74a00b-8ca7-4c9a-a5c1-156a68590ee2"
+Path: /sitecore/content/PuneTechies/Home/Hackathons/Hackathon 2020/_Local/Topics/Topic
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200229T143052Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "ac3fd4db-8266-476d-9635-67814d91e901"
+      Hint: Summary
+      Value: |
+        <h2><span>Sitecore Hackathon 2020 Ideas</span></h2>
+        <p style="margin: 7.5pt 0cm;"><span style="color: #757575;">Welcome to the 2020 Sitecore Hackathon! We are so excited for this year's competition and we welcome all the competitors.&nbsp;<br />
+        This year we decided to change things up a bit by using the competition as a way to meet specific needs for the community. We encourage all teams to make use of any combination of the Sitecore products which include but not limited to XP, Commerce, JSS, SXA. You may even use existing community modules or build a new one to be included with your submission.<br />
+        <br />
+        The following are the 2020 Hackathon submission topics:</span></p>
+        <ol>
+            <li style="color: #757575;"><span>Sitecore Meetup Website &ndash; In recent events the Meetup.com site began charging for the registering and hosting of meetings as well as other features previously free. Many of the Sitecore User Groups rely on Meetup</span></li>
+            <li style="color: #757575;"><span>Sitecore Marketplace Website &ndash; The Marketplace was once a destination for popular modules to be showcased to the community. Consider the ways in which modules can be shared and installed.</span></li>
+            <li style="color: #757575;"><span>Sitecore Hackathon Website &ndash; This idea is sooo meta! Several years have passed with the current version and it&rsquo;s in need of a refresh.</span></li>
+        </ol>

@@ -1,38 +1,37 @@
-![Hackathon Logo](documentation/images/hackathon.png?raw=true "Hackathon Logo")
+# Sitecore Habitat is No Longer Maintained
 
-# Submission Boilerplate
+This "original" Sitecore Habitat is no longer being updated or maintained, and is being replaced with [Sitecore Helix Examples](https://sitecore.github.io/Helix.Examples/). It's still a valuable reference for aspects of Helix which are not yet reflected in the new examples, but there will be no further releases of Habitat.
 
-Welcome to Sitecore Hackathon 2020.
+You are free to fork this repository for further update, but please rename it if you do so, as to not create further confusion with the still maintained Habitat Home demo site collection.
 
-The Hackathon site can be found at http://www.sitecorehackathon.org/sitecore-hackathon-2020/
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-no-red.svg)](https://bitbucket.org/lbesson/ansi-colors)
 
-The purpose of this repository is to provide a sample which shows how to structure the Hackathon submissions.
+<hr />
+
+# Sitecore Habitat
+
+Habitat is an example Sitecore solution built on the [Helix architecture principles](http://helix.sitecore.net). It is designed to show how a Helix-based solution can be architected, and to demonstrate how tooling can be used to accomplish publishing, serialization, and testing. Habitat **is not intended** to be a starter solution, or as a recommendation of tools for your solutions.
+
+The architecture and methodology focuses on:
+
+* Simplicity - *A consistent and discoverable architecture*
+* Flexibility - *Change and add quickly and without worry*
+* Extensibility - *Simply add new features without steep learning curve*
+
+For getting started, please check out the [Documentation](./docs).  
+For more information on **Helix**, please go to [helix.sitecore.net](http://helix.sitecore.net).
 
 
-## Entry Submission Requirements 
+## Is Habitat a starter kit or template solution?
 
-All teams are required to submit the following as part of their entry submission on or before the end of the Hackathon on **Saturday  February 29th 2020 at 8PM EST**. The modules should be based on [Sitecore 9.3 (Initial Release)](https://dev.sitecore.net/Downloads/Sitecore_Experience_Platform/93/Sitecore_Experience_Platform_93_Initial_Release.aspx).
+No. You should not clone this repository for the purposes of starting a new Sitecore project. There are other community solutions which can be used as a starter for Helix-based Sitecore implementations. Habitat is intended as a **reference example** of a Helix-based Sitecore implementation.
 
-**Failure to meet any of the requirements will result in automatic disqualification.** Please reach out to any of the organisers or judges if you require any clarification.
+## Is Habitat supported by Sitecore?
 
-- Sitecore 9.3 (Initial Release) Module (Module install package)
-   - An installation Sitecore Package (`.zip` or `.update`)
+Sitecore maintains the Helix documentation and Habitat example, but Habitat code is not supported by Sitecore Product Support Services. Please do not submit support tickets regarding Habitat.
 
-- Module code in a public Git source repository. We will be judging (amongst other things):
-  - Cleanliness of code
-  - Commenting where necessary
-  - Code Structure
-  - Standard coding standards & naming conventions
+## How can I get help with Habitat?
 
-- Precise and Clear Installation Instructions document (1 – 2 pages)
-- Module usage documentation on [Readme.md](documentation) file on the Git Repository (2 – 5 pages)
-  - Module Purpose
-  - Module Sitecore Hackathon Category
-  - How does the end user use the Module?
-  - Screenshots, etc.
+For usage questions regarding Habitat installation or code, or questions about Helix, please utilize [Sitecore Stackexchange](https://sitecore.stackexchange.com/) or [#helix-habitat](slack://channel?team=T09SHRBNU&id=C0HNYDJ5V) on [Sitecore Community Slack](https://www.akshaysura.com/2015/10/27/how-to-join-sitecore-slack-community-chat/). 
 
-- Create a 2 – 10 minutes video explaining the module’s functionality (A link to youtube video)
-
-  - What problem was solved
-  - How did you solve it
-  - What is the end result
+You can use GitHub to submit [bug reports](https://github.com/Sitecore/Habitat/issues/new?template=bug_report.md) or [feature requests](https://github.com/Sitecore/Habitat/issues/new?template=feature_request.md) for Habitat. Please do not submit usage questions via GitHub.
